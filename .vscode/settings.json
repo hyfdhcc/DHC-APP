@@ -2,6 +2,6 @@
     "objectscript.conn": {
         "server": "servertyy",
         "ns": "DHC-APP",
-        "active": true
+        "active": false
     }
 }

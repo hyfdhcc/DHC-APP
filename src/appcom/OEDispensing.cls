@@ -1,6 +1,6 @@
 /// Creator:      周志强
 /// CreatDate:    2012.03.06
-/// Description:  用于发药记录处理的公共服务类
+/// Description:  用于发药记录处理的公共服务类1111
 Class appcom.OEDispensing Extends %RegisteredObject [ ClassType = "", ProcedureBlock ]
 {
 
